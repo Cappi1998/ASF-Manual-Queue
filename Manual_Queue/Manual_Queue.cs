@@ -91,7 +91,7 @@ namespace Manual_Queue
 
 		static async Task<ImmutableHashSet<uint>?> GenerateNewDiscoveryQueue(Bot bot)
 		{
-			ASF.ArchiLogger.LogGenericInfo($"<{bot.BotName}> - GenerateNewDiscoveryQueue().");
+			ASF.ArchiLogger.LogGenericInfo($"<{bot.BotName}> - {Strings.Executing}");
 
 			Uri request = new(ArchiWebHandler.SteamStoreURL, "/explore/generatenewdiscoveryqueue");
 
