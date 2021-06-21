@@ -1,5 +1,5 @@
 # Manual_Queue
-Simple plugin for ArchiSteamFarm that explores the discovery queue when requested
+Simple plugin for [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) that explores the discovery queue when requested
 
 
 # How to use
